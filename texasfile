@@ -1,6 +1,2 @@
 Our Project1 using jenkins to integrate all of the tools for jenkins to work in June Class.,,,,,
 Thank you Jesus for yet another beautiful day...
-Based on AWS best practice, root user is not recommended to perform everyday tasks,
-even the administrative ones. The root user, rather is used to to create your firstIAM user,
-groups and roles. Then you need to securely lock away the root user credentials and use them
-to perform only a few account and service management tasks.
