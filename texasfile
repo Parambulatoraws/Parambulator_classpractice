@@ -1,3 +1,4 @@
 Thank you Jesus for yet another beautiful day...
 Today’s IT professionals must be adept explorers, charting courses through mountains of data and streams of continuous integration and deployment.
 This environment demands a new kind of compass.
+With S3 and CloudFront set up, you can now use them to serve static assets, host files, and provide content delivery in your React application.
